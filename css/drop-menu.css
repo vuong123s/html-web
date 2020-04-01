@@ -1,0 +1,21 @@
+.menu-list{
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.menu-list li{
+  padding: 0 10px
+}
+
+.head{
+  border-bottom: solid;
+  border-width: 0.5px;
+  border-color: darkgray;
+}
+
+.body{
+  width: 900px;
+  margin: 0 auto;
+}
