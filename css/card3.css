@@ -1,0 +1,37 @@
+.d{
+  display: flex;
+}
+
+.card img {
+  width: 50px;
+  margin: 5px;
+}
+
+.card1{
+  font-size: 13px;
+  margin: auto 10px;
+}
+
+.card1 p {
+  margin: 0;
+}
+
+.card1 h4{
+  margin: 0;
+}
+
+.card2{
+  display: flex;
+  align-items: center;
+  opacity: 0;
+}
+
+.card2 img{
+  width: 20px;
+  height: 20px;
+  margin: 0 15px;
+}
+
+.d:hover .card2{
+  opacity: 1;
+}

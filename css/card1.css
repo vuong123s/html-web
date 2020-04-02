@@ -1,0 +1,36 @@
+.a{
+  width: 1000px;
+  height: 70px;
+  background: url(../img/logo/0ba3d60362c7e6d256cfc1f37156bad9.jpg);
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.b{
+  display: flex;
+  align-items: center;
+}
+
+.b img {
+  width: 50px;
+  margin: 0 10px;
+}
+
+.b p{
+  color: aliceblue;
+  margin: 0 10px;
+}
+
+.b button{
+  height: 30px;
+  font-family: 'Roboto', sans-serif;
+  background-color: rgb(250, 200, 0);
+  border: none;
+  color: #fff;
+  border-radius: 5px;
+  margin: 0 10px;
+}
