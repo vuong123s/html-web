@@ -6,7 +6,6 @@
   background-size: cover;
   display: flex;
   align-items: center;
-
 }
 
 body{
@@ -17,10 +16,24 @@ body{
   margin: 50px;
 }
 
-.c img{
+.d img{
   width: 120px;
+  height: 120px;
+  border-radius: 100%;
+}
+
+.d img:hover{
+  transform: scale(1.1);
+  transition: 1s;
+}
+
+.d{
+  width: 120px;
+  height: 120px;
   border-radius: 100%;
   margin-left: 15px;
+  box-sizing: border-box;
+  overflow: hidden;
 }
 
 .c{
@@ -30,14 +43,29 @@ body{
 
 .e{
   text-align: center;
-  height: 20px;
+  height: 23px;
   width: 130px;
-  background-color: blueviolet;
+  background: linear-gradient(to right,#f508b7,#9102ff);
   margin-left: 40px;
   border-radius: 4px
+}
+.e a h3{
+  margin: 0;
+  margin-top: 10px;
+}
+
+.e a{
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+  color: black;
+}
+
+.e a:hover{
+  color: #b991dd;
 }
 
 .e i{
   font-size: 11px;
   color: aliceblue;
+  margin: auto 0;
 }
