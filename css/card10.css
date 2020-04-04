@@ -1,0 +1,45 @@
+.button{
+  text-decoration: none;
+}
+
+body{
+  height: 2000px;
+}
+
+.head{
+  width: 100%;
+  display: flex;
+  position: fixed;
+  justify-content: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+
+.table tr th{
+  padding-right: 70px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+
+.table tr td{
+  padding-left: 10px;
+  padding-bottom: 7px;
+}
+
+.table{
+  margin-top: 16px;
+  opacity: 0;
+  position: absolute;
+  border: solid #c3c3c3 1px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.dr{
+  position: relative;
+}
+
+.dr:hover .table{
+  opacity: 1;
+}
+.dr:hover{
+}
