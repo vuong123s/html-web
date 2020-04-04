@@ -2,6 +2,9 @@
     display: flex;
     align-items: center;
 }
+.font{
+  font-family: 'Roboto', sans-serif;
+}
 .logo a img {
     height: 40px;
     margin: auto;

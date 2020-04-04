@@ -1,6 +1,6 @@
-.a{
-  width: 1000px;
-  height: 70px;
+.thanh{
+  width: 980px;
+  height: 60px;
   background: url(../img/logo/0ba3d60362c7e6d256cfc1f37156bad9.jpg);
   background-size: cover;
   background-position: center;
@@ -8,24 +8,26 @@
   justify-content: center;
   align-items: center;
   font-family: 'Roboto', sans-serif;
+  margin: 25px auto;
+  border-radius: 2px;
 }
 
-.b{
+.phantu{
   display: flex;
   align-items: center;
 }
 
-.b img {
+.phantu img {
   width: 50px;
   margin: 0 10px;
 }
 
-.b p{
+.phantu p{
   color: aliceblue;
   margin: 0 10px;
 }
 
-.b button{
+.phantu button{
   height: 30px;
   font-family: 'Roboto', sans-serif;
   background-color: rgb(250, 200, 0);

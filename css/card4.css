@@ -1,10 +1,43 @@
-.card{
-  width: 160px;
-  height: 160px;
-  margin: 100px;
+.danhsach{
+  display: flex;
 }
 
-.card:hover {
-  transform: scale(1.2);
+.the{
+  width: 180px;
+  height: 180px;
+  box-sizing: border-box;
+  overflow: hidden;
+  margin: 15px auto;
+}
+.hinh{
+  width: 180px;
+  height: 180px;
+  background-image: url(../img/logo/a20193f6cf32dfb52acae4343fc85e4c.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.icon{
+  width: 180px;
+  height: 180px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  opacity: 0;
+}
+
+.icon i {
+  color: aliceblue;
+}
+
+.hinh:hover .icon{
+  transform: scale(1);
+}
+
+.hinh:hover .icon{
+  opacity: 1;
+}
+.hinh:hover{
+  transform: scale(1.08);
   transition: 1s;
 }
