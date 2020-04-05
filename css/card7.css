@@ -1,6 +1,6 @@
 .slider{
-  width: 600px;
-  height: 200px;
+  width: 1024px;
+  height: 343px;
   background: url(../img/slice/6103058e861672cb8d6cef1b57308a83.jpg);
   background-position: center;
   background-size: cover;
@@ -55,4 +55,9 @@
 
 .image img:hover{
   border: solid chartreuse 1px;
+}
+
+.slice{
+  display: flex;
+  justify-content: center;
 }

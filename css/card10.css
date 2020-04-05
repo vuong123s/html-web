@@ -1,3 +1,4 @@
+
 .button{
   text-decoration: none;
 }
@@ -15,23 +16,36 @@ body{
 }
 
 .table tr th{
-  padding-right: 70px;
+  padding-right: 80px;
   padding-left: 10px;
-  padding-bottom: 10px;
 }
 
 .table tr td{
   padding-left: 10px;
   padding-bottom: 7px;
 }
-
 .table{
-  margin-top: 16px;
-  display: none;
-  border: solid #c3c3c3 1px;
+  margin-top: 15px;
+  border: solid #5d495d 1px;
   font-family: 'Source Sans Pro', sans-serif;
+  display: none;
+  background-color: white;
 }
 
-.dr{
+.drop{
   position: relative;
+}
+
+.drop:hover .table{
+  display: block;
+  position: absolute;
+}
+
+.table:hover{
+  display: block;
+  position: absolute;
+}
+
+.drops tr td{
+  padding-right: 20px;
 }
