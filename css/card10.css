@@ -3,10 +3,6 @@
   text-decoration: none;
 }
 
-body{
-  height: 2000px;
-}
-
 .head{
   width: 100%;
   display: flex;

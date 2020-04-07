@@ -40,12 +40,13 @@
 
 .image{
   height: 60px;
+  margin-right: 20px;
   opacity: 0;
-  margin-right: 10px;
 }
 
 .image img{
   width: 50px;
+  margin-right: 10px;
 }
 
 .slider:hover .image{

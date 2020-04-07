@@ -15,11 +15,11 @@
   border-color: darkgray;
 }
 
+.menu-list{
+  margin: 0;
+}
+
 .body{
   width: 1000px;
   margin: 0 auto;
-}
-
-.menu-list{
-  margin: 0;
 }

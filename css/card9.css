@@ -1,23 +1,25 @@
-.card{
+.card1{
   display: flex;
+  margin-top: 10px;
+  margin-bottom: 20px;
 }
 
-.card div img{
-  width: 300px;
-  height: 70px;
+.card1 div img{
+  width: 242px;
+  height: 60px;
   
 }
 
-.card div{
+.card1 div{
   width: 300px;
   height: 70px;
-  margin: 20px;
+  padding: 12px;
   border-radius: 1px;
   box-sizing: border-box;
   overflow: hidden;
 }
 
-.card img:hover{
+.card1 img:hover{
   transform: scale(1.1);
   transition: 1s;
 }

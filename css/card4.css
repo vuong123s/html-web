@@ -1,5 +1,10 @@
 .danhsach{
   display: flex;
+  font-size: 15px;
+}
+
+.card{
+  margin-right: 26px;
 }
 
 .the{
@@ -12,9 +17,6 @@
 .hinh{
   width: 180px;
   height: 180px;
-  background-image: url(../img/logo/a20193f6cf32dfb52acae4343fc85e4c.jpg);
-  background-position: center;
-  background-size: cover;
 }
 .icon{
   width: 180px;
@@ -40,4 +42,103 @@
 .hinh:hover{
   transform: scale(1.08);
   transition: 1s;
+}
+
+.a{
+  background: url(https://photo-resize-zmp3.zadn.vn/w480_r1x1_jpeg/cover/d/0/0/8/d008801b7b3fdd998a84461b41c53294.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.b{
+  background: url(https://photo-resize-zmp3.zadn.vn/w480_r1x1_jpeg/cover/4/2/4/0/424096d40d9b83aa546364d315b07cb3.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.c{
+  background: url(https://photo-resize-zmp3.zadn.vn/w480_r1x1_jpeg/cover/7/6/3/5/7635d3675861a2f9fd1b40565a6a7cc3.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.d{
+  background: url(https://photo-resize-zmp3.zadn.vn/w480_r1x1_jpeg/cover/e/2/5/3/e25366c738d1532ee008d7361fae7f5f.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.e{
+  background: url(https://photo-resize-zmp3.zadn.vn/w480_r1x1_jpeg/cover/9/1/7/a/917a00763797584ccf7e457f7d8ff4e3.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.f{
+  background: url(https://photo-resize-zmp3.zadn.vn/w480_r1x1_jpeg/cover/b/b/4/d/bb4d05a07701730462847acabc746bc8.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.g{
+  background: url(https://photo-resize-zmp3.zadn.vn/w480_r1x1_jpeg/cover/4/7/8/7/4787263cd375fa7a2f986423c553dfd9.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.h{
+  background: url(https://photo-resize-zmp3.zadn.vn/w480_r1x1_jpeg/cover/b/3/e/e/b3ee3ed0274c147827047eb57d6e5519.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.j{
+  background: url(https://photo-resize-zmp3.zadn.vn/w480_r1x1_jpeg/cover/0/a/5/1/0a51463a2298ac6280d34cbefacb402b.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.k{
+  background: url(https://photo-resize-zmp3.zadn.vn/w480_r1x1_jpeg/cover/3/2/c/a/32cae20ec6bf3a41abf87ef561a10eed.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.r{
+  background: url(https://photo-resize-zmp3.zadn.vn/w480_r1x1_jpeg/cover/0/d/8/b/0d8b601b457e4d5b16393d467f625e2d.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.t{
+  background: url(https://photo-resize-zmp3.zadn.vn/w480_r1x1_jpeg/cover/9/0/1/2/90128d9f5b3134c528b987337bb37dfe.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.y{
+  background: url(https://photo-resize-zmp3.zadn.vn/w480_r1x1_jpeg/cover/d/2/2/7/d227b6f42ebab296928e730520220bc1.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.u{
+  background: url(https://photo-resize-zmp3.zadn.vn/w480_r1x1_jpeg/cover/2/7/3/8/27382453c8d958dd46cd5f743e6d79ac.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.i{
+  background: url(https://photo-resize-zmp3.zadn.vn/w480_r1x1_jpeg/cover/3/f/3/e/3f3e554a04b1d356e68c825222155e75.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.xephang{
+  margin-top: 30px;
+}
+
+.xephang img{
+  width:1005px;
+  height: 343px;
 }
