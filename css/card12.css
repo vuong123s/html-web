@@ -1,0 +1,57 @@
+.phan-tu{
+    width: 600px;
+    height: 338px;
+    position: relative;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.tieu-de2{
+    width: 600px;
+    height: 338px;
+    position: absolute;
+    top: 0;
+    color: white;
+}
+
+.tieu-de2 h4{
+    margin: 0;
+    margin-top: 280px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+.tieu-de2 p{
+    margin: 0;
+    margin-left: 20px;
+    color: rgb(196, 196, 196);
+}
+
+.button-play{
+    position: absolute;
+    top: 0;
+    color: white;
+    margin: 145px 276px;
+    opacity: 0;
+}
+
+.card5:hover .tieu-de2 .button-play{
+    opacity: 1;
+}
+
+.card5:hover .tieu-de2{
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.card5:hover .tieu-de2 h4{
+    opacity: 0;
+}
+
+.card5:hover .tieu-de2 p{
+    opacity: 0;
+}
+
+.card5:hover .phan-tu img{
+    transform: scale(1.05);
+    transition: 1s;
+}

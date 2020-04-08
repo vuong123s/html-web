@@ -1,0 +1,18 @@
+.b9{
+    background-image: url(https://photo-zmp3.zadn.vn/cover/3/c/1/2/3c12c0a5c109aa11627acbaf73f76c03.jpg);
+}
+  
+.card4{
+    height: 100px;
+    width: 190px;
+    box-sizing: border-box;
+    overflow: hidden;
+    margin: 15px 10px;
+}
+  
+.hinh3{
+    height: 100px;
+    width: 190px;
+    background-position: center;
+    background-size: cover;
+}

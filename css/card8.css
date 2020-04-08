@@ -1,13 +1,13 @@
-.slider{
+.slider1{
   display: flex;
   position: relative;
   width: 200%;
   margin: 0;
   left: 0;
-  animation: 10s slider infinite;
+  animation: 10s slider1 infinite;
 }
 
-@keyframes slider{
+@keyframes slider1{
   0%{
     left: 0;
   }

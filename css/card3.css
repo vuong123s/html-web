@@ -1,10 +1,11 @@
-.d{
+.card3{
   display: flex;
+  width: 342px;
 }
 
-.card{
-  width: 50px;
-  height: 50px;
+.the1{
+  width: 40px;
+  height: 40px;
   background: url(../img/logo/a20193f6cf32dfb52acae4343fc85e4c.jpg);
   background-size: cover;
   background-position: center;
@@ -12,8 +13,8 @@
 }
 
 .v{
-  width: 50px;
-  height: 50px;
+  width: 40px;
+  height: 40px;
   background-color: rgba(0, 0, 0, 0.5);
   display: flex;
   justify-content: center;
@@ -25,36 +26,57 @@
   color: aliceblue;
 }
 
-.card1{
+.tieu-de{
   font-size: 13px;
   margin: auto 10px;
 }
 
-.card1 p {
+.tieu-de p {
   margin: 0;
 }
 
-.card1 h4{
+.tieu-de h4{
   margin: 0;
 }
 
-.card2{
+.hinh2{
   display: flex;
   align-items: center;
   opacity: 0;
 }
 
-.card2 img{
+.hinh2 img{
   width: 20px;
   height: 20px;
-  margin: 0 15px;
+  margin-left: 80px;
+  margin-right: 10px;
 }
 
-
-
-.d:hover .v{
+.card3:hover .v{
   opacity: 1;
 }
-.d:hover .card2{
+.card3:hover .hinh2{
   opacity: 1;
+}
+
+.hinh2 p{
+  font-size: 12px;
+  border: solid black 1px;
+  margin: 30px 0 0 0;
+  padding: 3px 5px;
+  background-color: white;
+  opacity: 0;
+}
+
+.hinh2 i:hover ~ p{
+  opacity: 1;
+}
+
+.bang-xep-hang{
+  display: flex;
+}
+
+.danhsach1{
+  margin: 0 auto;
+  padding-left: 5px;
 }

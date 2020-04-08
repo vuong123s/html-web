@@ -1,4 +1,4 @@
-.b{
+.bodyphantu{
   width: 320px;
   height: 140px;
   background-image: url(../img/logo/spotlight-bg.jpg);
@@ -8,26 +8,18 @@
   align-items: center;
 }
 
-body{
-  background-color: darkgrey;
-}
-
-.a{
-  margin: 50px;
-}
-
-.d img{
+.hinh1 img{
   width: 120px;
   height: 120px;
   border-radius: 100%;
 }
 
-.d img:hover{
+.hinh1 img:hover{
   transform: scale(1.1);
   transition: 1s;
 }
 
-.d{
+.hinh1{
   width: 120px;
   height: 120px;
   border-radius: 100%;
@@ -36,12 +28,12 @@ body{
   overflow: hidden;
 }
 
-.c{
+.phantu1{
   display: flex;
   align-items: center;
 }
 
-.e{
+.icon1{
   text-align: center;
   height: 23px;
   width: 130px;
@@ -49,23 +41,36 @@ body{
   margin-left: 40px;
   border-radius: 4px
 }
-.e a h3{
+.icon1 a h3{
   margin: 0;
   margin-top: 10px;
 }
 
-.e a{
+.icon1 a{
   font-family: 'Roboto', sans-serif;
   text-decoration: none;
   color: black;
 }
 
-.e a:hover{
+.icon1 a:hover{
   color: #b991dd;
 }
 
-.e i{
+.icon1 i{
   font-size: 11px;
   color: aliceblue;
   margin: auto 0;
+}
+
+.nghesi{
+  display: flex;
+}
+
+.slider1{
+  margin: 10px;
+}
+
+.danhsachnghesi{
+  width: 1024px;
+  overflow: hidden;
 }

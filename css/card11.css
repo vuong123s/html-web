@@ -1,0 +1,84 @@
+.card2{
+    display: flex;
+    width: 350px;
+    height: 150px;
+}
+
+.hinhanh{
+    position: relative;
+    width: 120px;
+    height: 120px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.hinhanh img{
+    width: 120px;
+    height: 120px;
+}
+
+.hieu-ung{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 120px;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    opacity: 0;
+}
+
+.hieu-ung i{
+    color: white;
+}
+
+.hinhanh:hover .hieu-ung{
+    opacity: 1;
+}
+
+.hinhanh:hover img{
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+.tieude{
+    margin-left: 20px;
+}
+
+.tieude h4{
+    margin: 0;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.tieude p{
+    margin: 0;
+    margin-bottom: 30px;
+}
+
+.thoigian{
+    display: flex;
+}
+
+.thoigian p{
+    margin-top: 15px;
+    font-size: 12px;
+    color: gray;
+}
+
+.thoigian h1{
+    padding-right: 50px;
+    text-shadow: 2px 2px 2px rgb(172, 92, 230);
+    color: white;
+}
+
+.tieude h1{
+    margin: 0;
+}
+
+.danhsachmoiphathanh{
+    width: 1024px;
+    margin: 0 auto;
+    overflow: hidden;
+}

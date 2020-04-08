@@ -1,6 +1,6 @@
-.c{
+.tieu-de1{
   height: 100px;
-  width: 200px;
+  width: 190px;
   background-image: linear-gradient(to bottom,rgba(0,0,0,0),rgba(16, 16, 16, 0.8));
   color: aliceblue;
   display: flex;
@@ -9,33 +9,72 @@
   font-family: 'Roboto', sans-serif;
 }
 
-.a{
+.card4{
   height: 100px;
-  width: 200px;
-  margin: 30px;
+  width: 190px;
   box-sizing: border-box;
   overflow: hidden;
+  margin: 15px 10px;
 }
 
-.c p{
+.tieu-de1 p{
   margin: 25px 0;
   transform: none;
 }
 
-.b{
+.hinh3{
   height: 100px;
-  width: 200px;
-  background-image: url(../img/logo/c30d054c290f894af50ef605083dcf7d.jpg);
+  width: 190px;
   background-position: center;
   background-size: cover;
 }
 
-.a:hover .b{
+.card4:hover .hinh3{
   transform: scale(1.07);
   transition: 0.5s;
 }
 
-.a:hover .c p{
+.card4:hover .tieu-de1 p{
   margin-bottom: 35px;
   transition: 0.7s;
+}
+
+.b{
+  background-image: url(https://photo-zmp3.zadn.vn/cover/a/f/6/4/af645626969f1838e60817ef208b1637.jpg);
+}
+
+.b1{
+  background-image: url(https://photo-zmp3.zadn.vn/cover/f/7/c/3/f7c379c546171a720206604ba2b6a2d8.jpg);
+}
+
+.b2{
+  background-image: url(https://photo-zmp3.zadn.vn/cover/3/2/2/6/3226e68665ac98ddfacda6152c44088a.jpg);
+}
+
+.b3{
+  background-image: url(https://photo-zmp3.zadn.vn/cover/e/0/b/d/e0bdac94b82a350a72798eae52715f02.jpg);
+}
+
+.b4{
+  background-image: url(https://photo-zmp3.zadn.vn/cover/3/f/e/5/3fe5c35b334dacc3dbbdfd1b5bd10910.jpg);
+}
+
+.b5{
+  background-image: url(https://photo-zmp3.zadn.vn/banner/3/e/3e41bb2fa76c04460bc709dc46fe2243_1499168356.jpg);
+}
+
+.b6{
+  background-image: url(https://photo-zmp3.zadn.vn/cover/5/b/9/2/5b927a10061bf619297de021dfcd6381.jpg);
+}
+
+.b7{
+  background-image: url(https://photo-zmp3.zadn.vn/cover/2/e/1/f/2e1f273d47fb2e56f6cd4147bc7aea4f.jpg);
+}
+
+.b8{
+  background-image: url(https://photo-zmp3.zadn.vn/cover/4/0/a/f/40afc2cbcc5fe7565feb5f168bf18f3d.jpg);
+}
+
+.b9{
+  background-image: url(https://photo-zmp3.zadn.vn/cover/3/c/1/2/3c12c0a5c109aa11627acbaf73f76c03.jpg);
 }
