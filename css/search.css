@@ -2,13 +2,19 @@
     display: flex;
     align-items: center;
 }
+
 .font{
   font-family: 'Roboto', sans-serif;
 }
+
 .logo a img {
     height: 40px;
-    margin: auto;
     margin-right: 50px;
+}
+
+.logo a img {
+  height: 40px;
+  margin-right: 50px;
 }
 .logo{
   margin: 0 auto;
@@ -46,7 +52,7 @@
 .button{
   color: black;
   margin-left: 15px;
-  margin-top: 7px;
+  margin-top: 12px;
 }
 
 .button:hover{
@@ -59,4 +65,19 @@
 }
 .search form input:focus{
   outline: 0;     
+}
+
+body{
+  margin-top: 0;
+}
+
+.head{
+  position: fixed;
+  background-color: white;
+  z-index: 1;
+}
+
+.menu-zing{
+  width: 1583px;
+  height: 103.5px;
 }

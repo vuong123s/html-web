@@ -1,18 +1,105 @@
-.b9{
-    background-image: url(https://photo-zmp3.zadn.vn/cover/3/c/1/2/3c12c0a5c109aa11627acbaf73f76c03.jpg);
+.the4{
+    width: 14px;
+    height: 16px;
+    margin-right: 10px;
 }
-  
-.card4{
-    height: 100px;
-    width: 190px;
-    box-sizing: border-box;
-    overflow: hidden;
-    margin: 15px 10px;
+
+.card7{
+  display: flex;
+  width: 300px;
 }
-  
-.hinh3{
-    height: 100px;
-    width: 190px;
-    background-position: center;
-    background-size: cover;
+
+.the4 i{
+    position: absolute;
+    opacity: 0;
+}
+
+.the4 h4{
+    margin: 0;
+    font-size: 13px;
+}
+
+.tieu-de5 p{
+    font-size: 13px;
+    margin: 0;
+}
+
+.card7{
+    margin: 10px 0;
+}
+
+.hinh5{
+  display: flex;
+  background-color: white;
+  align-items: center;
+  opacity: 0;
+  position: absolute;
+  margin-left: 220px;
+  align-items: flex-start;
+}
+
+.hinh5 i{
+  position: absolute;
+  margin-left: 22px;
+}
+
+
+.hinh5 img{
+  width: 18px;
+  height: 18px;
+  position: absolute;
+}
+
+.hinh5 p{
+  font-size: 12px;
+  border: solid black 1px;
+  padding: 3px 5px;
+  background-color: white;
+  opacity: 0;
+}
+
+.hinh5 i:hover ~ p{
+    opacity: 1;
+}
+
+.card7:hover .the4 i{
+    opacity: 1;
+}
+
+.card7:hover .the4 h4{
+    opacity: 0;
+}
+
+.card7:hover .hinh5{
+    opacity: 1;
+}
+
+
+.danhsach7{
+    display: flex;
+    margin-top: 15px;
+}
+
+.tieu-de4 p{
+    margin-top: 115px;
+    font-size: 10px;
+    font-style: italic;
+    color: rgb(180, 180, 180);
+}
+
+.tieu-de4{
+    width: 168px;
+    margin: 0 10px;
+}
+
+.danhsach8{
+    margin-top: 20px;
+}
+
+body{
+    margin: 0;
+}
+
+.xephang1{
+    display: none;
 }

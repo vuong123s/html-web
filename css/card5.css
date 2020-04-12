@@ -39,42 +39,103 @@
   transition: 0.7s;
 }
 
+.b0{
+  background-image: url(https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/b/8/f/f/b8ff3e8f9f101a3a426cb202d95a0773.jpg);
+}
+
 .b{
-  background-image: url(https://photo-zmp3.zadn.vn/cover/a/f/6/4/af645626969f1838e60817ef208b1637.jpg);
+  background-image: url(../img/logo/a20193f6cf32dfb52acae4343fc85e4c.jpg);
 }
 
 .b1{
-  background-image: url(https://photo-zmp3.zadn.vn/cover/f/7/c/3/f7c379c546171a720206604ba2b6a2d8.jpg);
+  background-image: url(https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/d/c/2/2/dc223d975b823ad017112acde19fc101.jpg);
 }
 
 .b2{
-  background-image: url(https://photo-zmp3.zadn.vn/cover/3/2/2/6/3226e68665ac98ddfacda6152c44088a.jpg);
+  background-image: url(https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/e/1/9/3/e193221ea3c64cc2338f38d22d18916e.jpg);
 }
 
 .b3{
-  background-image: url(https://photo-zmp3.zadn.vn/cover/e/0/b/d/e0bdac94b82a350a72798eae52715f02.jpg);
+  background-image: url(https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/d/9/a/c/d9acd277ca311a01abefcc4e683ec846.jpg);
 }
 
 .b4{
-  background-image: url(https://photo-zmp3.zadn.vn/cover/3/f/e/5/3fe5c35b334dacc3dbbdfd1b5bd10910.jpg);
+  background-image: url(https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/6/1/6/e/616e8a68399303bc16c11aa6d6720e58.jpg);
 }
 
 .b5{
-  background-image: url(https://photo-zmp3.zadn.vn/banner/3/e/3e41bb2fa76c04460bc709dc46fe2243_1499168356.jpg);
+  background-image: url(https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/c/b/1/3/cb13e1bf14943b195563eca4003275db.jpg);
 }
 
 .b6{
-  background-image: url(https://photo-zmp3.zadn.vn/cover/5/b/9/2/5b927a10061bf619297de021dfcd6381.jpg);
+  background-image: url(https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/b/a/a/e/baae334f1b3939820bb06702ef9614d7.jpg);
 }
 
 .b7{
-  background-image: url(https://photo-zmp3.zadn.vn/cover/2/e/1/f/2e1f273d47fb2e56f6cd4147bc7aea4f.jpg);
+  background-image: url(https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/f/8/4/d/f84de59da17dab6e057a9c3327dd001f.jpg);
 }
 
 .b8{
-  background-image: url(https://photo-zmp3.zadn.vn/cover/4/0/a/f/40afc2cbcc5fe7565feb5f168bf18f3d.jpg);
+  background-image: url(https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/1/b/7/f/1b7fca00e4a123e139b416fb2d041e08.jpg);
 }
 
 .b9{
+  background-image: url(https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/9/c/f/59cffed80f457f20cd3ea75b1c303c36.jpg);
+}
+
+.b10{
+  background-image: url(https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/1/f/4/a/1f4ab0b217bfdc03f61e3e3ded51afca.jpg);
+}
+
+.b11{
+  background-image: url(https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/a/a/0/8/aa0852be0b1aed77fec4cc9841d29752.jpg);
+}
+
+.b12{
+  background-image: url(https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/d/6/8/1/d68152563b8d3bce473b3d515a0219df.jpg);
+}
+
+.b13{
+  background-image: url(https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/1/b/c/9/1bc972a51247ac4a1c899f27bdfabf17.jpg);
+}
+
+
+.c{
+  background-image: url(https://photo-zmp3.zadn.vn/cover/a/f/6/4/af645626969f1838e60817ef208b1637.jpg);
+}
+
+.c1{
+  background-image: url(https://photo-zmp3.zadn.vn/cover/f/7/c/3/f7c379c546171a720206604ba2b6a2d8.jpg);
+}
+
+.c2{
+  background-image: url(https://photo-zmp3.zadn.vn/cover/3/2/2/6/3226e68665ac98ddfacda6152c44088a.jpg);
+}
+
+.c3{
+  background-image: url(https://photo-zmp3.zadn.vn/cover/e/0/b/d/e0bdac94b82a350a72798eae52715f02.jpg);
+}
+
+.c4{
+  background-image: url(https://photo-zmp3.zadn.vn/cover/3/f/e/5/3fe5c35b334dacc3dbbdfd1b5bd10910.jpg);
+}
+
+.c5{
+  background-image: url(https://photo-zmp3.zadn.vn/banner/3/e/3e41bb2fa76c04460bc709dc46fe2243_1499168356.jpg);
+}
+
+.c6{
+  background-image: url(https://photo-zmp3.zadn.vn/cover/5/b/9/2/5b927a10061bf619297de021dfcd6381.jpg);
+}
+
+.c7{
+  background-image: url(https://photo-zmp3.zadn.vn/cover/2/e/1/f/2e1f273d47fb2e56f6cd4147bc7aea4f.jpg);
+}
+
+.c8{
+  background-image: url(https://photo-zmp3.zadn.vn/cover/4/0/a/f/40afc2cbcc5fe7565feb5f168bf18f3d.jpg);
+}
+
+.c9{
   background-image: url(https://photo-zmp3.zadn.vn/cover/3/c/1/2/3c12c0a5c109aa11627acbaf73f76c03.jpg);
 }

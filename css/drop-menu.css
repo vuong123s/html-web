@@ -6,7 +6,7 @@
 }
 
 .menu-list li{
-  padding: 15px 10px
+  padding: 15px 10px;
 }
 
 .head{
@@ -22,4 +22,22 @@
 .body{
   width: 1000px;
   margin: 0 auto;
+}
+.icon-menu i{
+  margin: auto 20px;
+}
+.icon-menu {
+  margin: auto 20px;
+}
+
+.menu-list i{
+  display: none;
+}
+
+.button-menu{
+  margin: auto 20px;
+}
+
+#r{
+  display: none;
 }

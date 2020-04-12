@@ -6,7 +6,6 @@
 .the1{
   width: 40px;
   height: 40px;
-  background: url(../img/logo/a20193f6cf32dfb52acae4343fc85e4c.jpg);
   background-size: cover;
   background-position: center;
   margin: 5px;
@@ -33,6 +32,7 @@
 
 .tieu-de p {
   margin: 0;
+  color: rgb(200, 200, 200);
 }
 
 .tieu-de h4{
@@ -40,9 +40,12 @@
 }
 
 .hinh2{
+  background-color: white;
   display: flex;
   align-items: center;
   opacity: 0;
+  position: absolute;
+  margin-left: 175px;
 }
 
 .hinh2 img{
@@ -64,8 +67,11 @@
   border: solid black 1px;
   margin: 30px 0 0 0;
   padding: 3px 5px;
-  background-color: white;
   opacity: 0;
+}
+
+.hinh2 i{
+  background-color: white;
 }
 
 .hinh2 i:hover ~ p{

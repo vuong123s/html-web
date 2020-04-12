@@ -12,7 +12,7 @@
   height: 180px;
   box-sizing: border-box;
   overflow: hidden;
-  margin: 15px auto;
+  margin: 15px 0;
 }
 .hinh{
   width: 180px;
@@ -310,6 +310,66 @@
 
 .a44{
   background: url(https://photo-resize-zmp3.zadn.vn/w480_r1x1_jpeg/cover/4/2/6/f/426f70ed262e2bf0a7289216ec636559.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.a45 {
+  background: url(https://photo-playlist-zmp3.zadn.vn/mixartist?src=HavwqN7EvKCI1og5AfZbHm1SVDWwcEKB1nSlsMdFjby45txORCNd2GLCUuXad-DRMKT_qsMSZb89HndRPPs7KWLOGv8xaS405XyNn7xMWrPW_fw56NjOrFenbKQF-4-JhcVJ0SskDyJdCVWWsxzqxG&size=thumb/240_240);
+  background-position: center;
+  background-size: cover;
+}
+
+.a46 {
+  background: url(https://photo-playlist-zmp3.zadn.vn/mixartist?src=HavwqN7EvKCI1og5AfZbHm1SBzXlcBH7L5n-mJZLvn83N7Z3FzMp459RAvC-XhD0Kbqbnsw7iqHLNJEUVD6_0WTETCegbFX0KJYLGslpLPlJebf8g6NMZ9Js30xl9u3ztgKE2KJipfjz&size=thumb/240_240);
+  background-position: center;
+  background-size: cover;
+}
+
+.a47 {
+  background: url(https://photo-playlist-zmp3.zadn.vn/mixartist?src=HavwqN7EvKCI1og5AfZbHm1SSzWxcEb70Ln_bMpKuH45Ndp7RDJaGmC8U9PYXxT235mkoZJHvaa92sQJ88Vg3riO8STsmgrD3Mx0JZUb09QFz0z5z3E3WSYWMGEpSTNWXVKPER8-_-OeTJynKSrN86uYVG&size=thumb/240_240);
+  background-position: center;
+  background-size: cover;
+}
+
+.a48 {
+  background: url(https://photo-playlist-zmp3.zadn.vn/mixartist?src=HavwqN7EvKCI1og5AfZbHm1SVjWxcB97MrmfbM2EiHqE0op8Pzkw7GS1SSndtBuT1rDno6kCwazK0MgLVOtc2GOIBS4hoA5BK6JCI6gl393I_WD3gJcFXvMgLGNkUzdu_jvLDG&size=thumb/240_240);
+  background-position: center;
+  background-size: cover;
+}
+
+.a49 {
+  background: url(https://photo-playlist-zmp3.zadn.vn/mixartist?src=HavwqN7EvKCI1og5AfZbHm1SVjXWcET7MbnypZJKvqjK2ohCFjBWJryCUPjZtkP92mDvp6IEu1eELs309zliN5n49vHndgiU2ZB67J3v1iM8g0aMys-5qi_yNr2qBTEqdoV6ZwYaI6kPYsMrfq29nbB5JrHz&size=thumb/240_240);
+  background-position: center;
+  background-size: cover;
+}
+
+.a50 {
+  background: url(https://photo-playlist-zmp3.zadn.vn/mixartist?src=HavwqN7EvKCI1og5AfZbHm1SVTW_cEf7KrnoaJE2lHHVNIQNFuBhGL8BSyGpq-qN2rftdsk6uHTNLM7DVjdjKGL69faedAeJKp3746dx1yZHgWWRgcs4tvR-NbtjBz8f90VSz5swjkrgEJWLzMBumY9z&size=thumb/240_240);
+  background-position: center;
+  background-size: cover;
+}
+
+.a51 {
+  background: url(https://photo-playlist-zmp3.zadn.vn/mixartist?src=HavwqN7EvKCI1og5AfZbHm1SATW_cEL7NrmfaMIEiXCF0tcKRj_Y758CVSXjXB5CLbWlc3pLkKvG33cKUO2r208VVi0lnV9AL6cVIMwYNv7Myr12hJJSXf6d1WJgTehyTItYxKAXR0bfYMBK8dq&size=thumb/240_240);
+  background-position: center;
+  background-size: cover;
+}
+
+.a52 {
+  background: url(https://photo-playlist-zmp3.zadn.vn/mixartist?src=HavwqN7EvKCI1og5AfZbHm1SVTWzcBT71LmlapZMi4PNMId0DuBaH0rTUP4mZ-15NrLxnJ2Fx45GKMoRUTtW1m92AyylcAT5L3JAHcx_2fxMhWLDhMc9YP7wKmlgAz_qtQm81o9z&size=thumb/240_240);
+  background-position: center;
+  background-size: cover;
+}
+
+.a53 {
+  background: url(https://photo-playlist-zmp3.zadn.vn/mixartist?src=HavwqN7EvKCI1og5AfZbHm1SUzWycBP70LmeaZlJv1C6Mox2QDEuGWCC9vSyXkn315mZa6c3wq5I3MkRUu7d1m0UBCyjnA15LcZDHcoZ3PxKyW9DhpMEYPEcL0leTzZisF0QVdq&size=thumb/240_240);
+  background-position: center;
+  background-size: cover;
+}
+
+.a54 {
+  background: url(https://photo-playlist-zmp3.zadn.vn/mixartist?src=HavwqN7EvKCI1og5AfZbHm1SBjXecB570rnwnck5v4G4Ntx6RDUs4rOBBP8yrB4HLmqjmpw5uafJ3MAGUe7k304U9SGinAbELsZ4JMsZ19NLyWj6hZM7WfAcNG3fTz7zmhmi9EaueEa&size=thumb/240_240);
   background-position: center;
   background-size: cover;
 }

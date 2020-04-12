@@ -1,3 +1,4 @@
+
 .phan-tu{
     width: 600px;
     height: 338px;
@@ -54,4 +55,79 @@
 .card5:hover .phan-tu img{
     transform: scale(1.05);
     transition: 1s;
+}
+
+.danhsach3{
+    display: flex;
+}
+
+.the3{
+    height: 100px;
+    width: 190px;
+    position: relative;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.nen{
+    width: 190px;
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.3);
+    position: absolute;
+    top: 0;
+    opacity: 0;
+}
+  
+.hinh3{
+    height: 100px;
+    width: 190px;
+    background-position: center;
+    background-size: cover;
+}
+
+.card6:hover .hinh3 img{
+    transform: scale(1.05);
+    transition: 1s;
+}
+
+.icon2{
+    position: absolute;
+    top: 0;
+    color: white;
+    margin: 34px 79px;
+    opacity: 0;
+}
+
+.hinh3 img{
+    width: 190px;
+    height: 100px;
+    position: absolute;
+    top: 0;
+}
+.card6:hover .icon2{
+    opacity: 1;
+}
+
+.card6:hover .nen{
+    opacity: 1;
+}
+
+.tieu-de3 p{
+    margin: 0;
+    margin: 5px 0;
+    color: rgb(196, 196, 196);
+    font-size: 13px;
+}
+
+.tieu-de3 h4{
+    margin: 5px 0;
+}
+
+.card6{
+    margin: 0 10px;
+    margin-bottom: 10px;
+}
+
+.danhsach5{
+    display: flex;
 }

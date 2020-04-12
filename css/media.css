@@ -1,0 +1,94 @@
+@media (max-width : 1024px){
+    .slider{
+        width: 750px;
+        height: 251px;
+    }
+    .search form input {
+        border: none;
+        align-self:center;
+        height: 40px;
+        width: 200px;
+    }
+    .thanh{
+        width: 590px;
+        font-size: 13px;
+    }
+    .menu-list li{
+        font-size: 17px;
+    }
+
+    .menu-list i{
+        display: inline;
+        margin-right: 15px;
+        color: #65509e;
+    }
+
+    .body{
+        width: 750px;
+        overflow: hidden;
+    }
+    .the{
+        width: 230px;
+        height: 230px;
+    }
+    .hinh{
+        width: 230px;
+        height: 230px;
+    }
+
+    .icon{
+        width: 230px;
+        height: 230px;
+    }
+    .xephang{
+        display: none;
+    }
+    .xephang1{
+        display: block;
+    }
+    .card1 div{
+        width: 170px;
+        height: 42px;
+    }
+    .card1 div img{
+        width: 170px;
+        height: 42px;    
+    }
+    .delete{
+        display: none;
+    }
+
+    .danhsach1{
+        margin-right: 100px;
+    }
+
+    .menu-list{
+        flex-direction: column;
+        padding: 0;
+    }
+    .menu-list li:hover {
+        color: #65509e;
+    }
+    .drop:hover .table{
+        display: none;
+    }
+
+    .drop-menu{
+        display: none;
+    }
+    .head{
+        padding-bottom: 10px;
+    }
+    #r:checked + .menu-list{
+        display: block;
+    }
+    .button-menu{
+        cursor: pointer;
+    }
+    #r:checked + .drop-menu{
+        display: block;
+    }
+    .button-menu{
+        display: inline;
+    }
+}
